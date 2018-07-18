@@ -1,7 +1,7 @@
 ---
 title: "Getting Started"
 menu:
-  main:
+  docs:
     parent: getting-started
 ---
 

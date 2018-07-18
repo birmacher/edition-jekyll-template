@@ -1,7 +1,7 @@
 ---
 title: Builds & Workflows
 menu:
-  main:
+  docs:
     parent: getting-started
 ---
 # Builds & Workflows
