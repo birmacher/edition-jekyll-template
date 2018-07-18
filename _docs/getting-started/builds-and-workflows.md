@@ -1,7 +1,7 @@
 ---
 title: Builds & Workflows
 menu:
-  docs:
+  main:
     parent: item_o1Vapc8
     identifier: item_2sBaTXA
     weight: 1

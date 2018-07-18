@@ -61,7 +61,7 @@
 				</ul> -->
 
 				<ul>
-				{% for item in site.menus.docs %}
+				{% for item in site.menus.main %}
 				  <li class="menu-item-{{ loop.index }}">
 				    <a href="{{ item.url }}" title="Go to {{ item.title }}">} {{ item.title }}</a>
 				    {% if item.children %}

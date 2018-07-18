@@ -1,8 +1,7 @@
 ---
 title: Getting Started
 menu:
-  docs:
-    parent: getting-started
+  main:
     identifier: item_o1Vapc8
     weight: 1
 
