@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Bitrise Devcenter
 
 ---
 __Bitrise__ is a [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
