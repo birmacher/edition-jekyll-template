@@ -1,6 +1,6 @@
 ---
 title: Builds & Workflows
-menu:
+menus:
   main:
     parent: item_o1Vapc8
     identifier: item_2sBaTXA

@@ -45,7 +45,7 @@
 					</li>
 				</ul>
 
-				<!-- <ul>
+				<ul>
 					{% assign grouped = site.docs | group_by: 'category' %}
 					{% for group in grouped %}
 						<li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
@@ -58,7 +58,9 @@
 							</ul>
 						</li>
 					{% endfor %}
-				</ul> -->
+				</ul>
+
+				{{ site.menus.main }}
 
 				<ul>
 				{% for item in site.menus.main %}
