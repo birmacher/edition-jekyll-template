@@ -2,7 +2,10 @@
 title: Builds & Workflows
 menu:
   docs:
-    parent: getting-started
+    parent: item_o1Vapc8
+    identifier: item_2sBaTXA
+    weight: 1
+
 ---
 # Builds & Workflows
 
