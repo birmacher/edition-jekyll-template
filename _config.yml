@@ -3,7 +3,7 @@
 
 title: Bitrise Devcenter - jekyll demo
 url: "https://birmacher.github.io"
-baseurl: ""
+baseurl: "/edition-jekyll-template/"
 google_analytics_key:
 show_full_navigation: true
 
