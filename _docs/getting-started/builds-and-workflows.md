@@ -3,6 +3,9 @@ title: Builds & Workflows
 menu:
   docs:
     parent: getting-started
+    identifier: item_2sBaTXA
+    weight: 2
+
 ---
 # Builds & Workflows
 
