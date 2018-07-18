@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
-baseurl:
+title: Bitrise Devcenter - jekyll demo
+url: "https://birmacher.github.io"
+baseurl: "/edition-jekyll-template"
 google_analytics_key:
 show_full_navigation: true
 
@@ -30,6 +30,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-menus
 
 exclude:
   - Gemfile
